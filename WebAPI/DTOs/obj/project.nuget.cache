@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yngg9fBPY3A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\DTOs\\DTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

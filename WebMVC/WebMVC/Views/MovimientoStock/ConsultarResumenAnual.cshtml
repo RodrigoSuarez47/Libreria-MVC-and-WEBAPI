@@ -1,0 +1,25 @@
+﻿@model string
+
+@{
+    ViewBag.Title = "Resumen de Movimientos";
+    var lineas = Model.Split(new[] { '\n' }, StringSplitOptions.RemoveEmptyEntries);
+}
+
+<h2 class="text-center">Resumen de Movimientos</h2>
+<hr />
+<br />
+@if (ViewBag.Mensaje != null)
+{
+    <div class="text-center text-danger">
+        @ViewBag.Mensaje
+    </div>
+}
+else
+{
+    <div class="text-center">
+        @foreach (var linea in lineas)
+        {
+            <div class="text-center">@linea</div>
+        }
+    </div>
+}

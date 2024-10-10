@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebMVC
+build_property.RootNamespace = WebMVC
+build_property.ProjectDir = C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebMVC\WebMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebMVC\WebMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/MovimientoStock/ConsultarMovimientosPorArticuloYTipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXENvbnN1bHRhck1vdmltaWVudG9zUG9yQXJ0aWN1bG9ZVGlwby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/MovimientoStock/ConsultarMovimientosPorArticuloYTipoQuery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXENvbnN1bHRhck1vdmltaWVudG9zUG9yQXJ0aWN1bG9ZVGlwb1F1ZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/MovimientoStock/ConsultarMovimientosPorFecha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXENvbnN1bHRhck1vdmltaWVudG9zUG9yRmVjaGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/MovimientoStock/ConsultarMovimientosPorFechaQuery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXENvbnN1bHRhck1vdmltaWVudG9zUG9yRmVjaGFRdWVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/MovimientoStock/ConsultarResumenAnual.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXENvbnN1bHRhclJlc3VtZW5BbnVhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/MovimientoStock/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/MovimientoStock/ListarMovimientosStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXExpc3Rhck1vdmltaWVudG9zU3RvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/Usuarios/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Downloads/Obligatorio 2 P3 18-06 TARDE/Obligatorio 2 P3/OBLIGATORIO 2/WebMVC/WebMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-giswp39xn8

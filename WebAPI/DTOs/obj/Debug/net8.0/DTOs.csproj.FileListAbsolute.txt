@@ -1,0 +1,435 @@
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\para ef\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\haciendo\Programacion3 con ef para ver\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\majan\Downloads\haciendo\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\majan\Downloads\haciendo\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\majan\Downloads\haciendo\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\majan\Downloads\haciendo\DTOs\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\majan\Downloads\haciendo\DTOs\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\majan\Downloads\haciendo\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\majan\Downloads\haciendo\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majan\Downloads\haciendo\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\majan\Downloads\haciendo\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\majan\Downloads\haciendo\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\majan\Downloads\haciendo\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\majan\Downloads\haciendo\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\majan\Downloads\haciendo\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\majan\Downloads\haciendo\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\majan\Downloads\haciendo\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\Nueva carpeta\haciendo\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\haciendo\haciendo\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\haciendo\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\para entregar\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\entregado 2\Codigo Obligatorio 1- Pablo Dos santos (287048)- Matias Nuñez (264432)\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\9.6.24 P3 O2!!!\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATORIO 2- P3- 05.06.24\OBLIGATTORIO 2\Gestion de Deposito\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\10.6.24 P3 02\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 11.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATTORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3. 13.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 14.06.2024\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 15.06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\obligatorio2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\OBLIGATTORIO 2\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3- 16-06 TARDE\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3- 17-06\Obligatorio 2 P3- 16-06\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Pablo\Desktop\backUp\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\rodri\Downloads\Obligatorio 2 P3 18-06 TARDE\Obligatorio 2 P3\OBLIGATORIO 2\WebAPI\DTOs\obj\Debug\net8.0\ref\DTOs.dll

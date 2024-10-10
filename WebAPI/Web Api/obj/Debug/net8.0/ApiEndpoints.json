@@ -1,0 +1,269 @@
+[
+  {
+    "ContainingType": "Web_Api.Controllers.ArticuloController",
+    "Method": "Get",
+    "RelativePath": "api/Articulo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.MovimientoStockController",
+    "Method": "Get",
+    "RelativePath": "api/MovimientoStock",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.MovimientoStockController",
+    "Method": "Post",
+    "RelativePath": "api/MovimientoStock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "msDTO",
+        "Type": "DTOs.MovimientoStockDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.MovimientoStockController",
+    "Method": "Get",
+    "RelativePath": "api/MovimientoStock/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.MovimientoStockController",
+    "Method": "ConsultarMovimientosPorArticuloYTipo",
+    "RelativePath": "api/MovimientoStock/articulo/{ArticuloId}/tipo/{MovimientoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ArticuloId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "MovimientoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.MovimientoStockController",
+    "Method": "ConsultarMovimientosPorArticuloYTipo",
+    "RelativePath": "api/MovimientoStock/articulo/{ArticuloId}/tipo/{MovimientoId}/pagina{pagina}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ArticuloId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "MovimientoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pagina",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.MovimientoStockController",
+    "Method": "ObtenerCantidadPaginas",
+    "RelativePath": "api/MovimientoStock/cantidadPaginas/{totalMovimientos}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "totalMovimientos",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.MovimientoStockController",
+    "Method": "ConsultarMovimientosPorFecha",
+    "RelativePath": "api/MovimientoStock/fechaInicio{fechaInicio}/fechaFin{fechaFin}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fechaInicio",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "fechaFin",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.MovimientoStockController",
+    "Method": "ConsultarMovimientosPorFecha",
+    "RelativePath": "api/MovimientoStock/fechaInicio{fechaInicio}/fechaFin{fechaFin}/pagina{pagina}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fechaInicio",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "fechaFin",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "pagina",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.MovimientoStockController",
+    "Method": "ObtenerResumenMovimientos",
+    "RelativePath": "api/MovimientoStock/resumen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.TipoMovimientosController",
+    "Method": "Get",
+    "RelativePath": "api/TipoMovimientos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.TipoMovimientosController",
+    "Method": "Post",
+    "RelativePath": "api/TipoMovimientos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tpDTO",
+        "Type": "DTOs.TipoMovimientoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.TipoMovimientosController",
+    "Method": "Get",
+    "RelativePath": "api/TipoMovimientos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.TipoMovimientosController",
+    "Method": "Put",
+    "RelativePath": "api/TipoMovimientos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tpDTO",
+        "Type": "DTOs.TipoMovimientoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.TipoMovimientosController",
+    "Method": "Delete",
+    "RelativePath": "api/TipoMovimientos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.UsuariosController",
+    "Method": "Login",
+    "RelativePath": "api/Usuarios/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usu",
+        "Type": "DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

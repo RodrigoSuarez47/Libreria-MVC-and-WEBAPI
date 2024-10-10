@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17408E1E-9F99-47E4-9DFC-29255B672792}|Web Api\\Web Api.csproj|c:\\users\\rodri\\downloads\\obligatorio 2 p3 18-06 tarde\\obligatorio 2 p3\\obligatorio 2\\webapi\\web api\\controllers\\movimientostockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17408E1E-9F99-47E4-9DFC-29255B672792}|Web Api\\Web Api.csproj|solutionrelative:web api\\controllers\\movimientostockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD362BD8-90FA-400D-A338-E996003FC087}|DTOs\\DTOs.csproj|c:\\users\\rodri\\downloads\\obligatorio 2 p3 18-06 tarde\\obligatorio 2 p3\\obligatorio 2\\webapi\\dtos\\mappersdtos\\mappertipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD362BD8-90FA-400D-A338-E996003FC087}|DTOs\\DTOs.csproj|solutionrelative:dtos\\mappersdtos\\mappertipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B5121F-C082-4811-9058-8BD1CF697E18}|LogicaDatos\\LogicaDatos.csproj|c:\\users\\rodri\\downloads\\obligatorio 2 p3 18-06 tarde\\obligatorio 2 p3\\obligatorio 2\\webapi\\logicadatos\\repositorios\\repositoriotipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B5121F-C082-4811-9058-8BD1CF697E18}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\repositoriotipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEEECC2-5432-4491-BB20-B6CCB6F3C4DA}|LogiaNegocio\\LogicaNegocio.csproj|c:\\users\\rodri\\downloads\\obligatorio 2 p3 18-06 tarde\\obligatorio 2 p3\\obligatorio 2\\webapi\\logianegocio\\interfacesrepositorios\\irepositoriotipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEEECC2-5432-4491-BB20-B6CCB6F3C4DA}|LogiaNegocio\\LogicaNegocio.csproj|solutionrelative:logianegocio\\interfacesrepositorios\\irepositoriotipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17408E1E-9F99-47E4-9DFC-29255B672792}|Web Api\\Web Api.csproj|c:\\users\\rodri\\downloads\\obligatorio 2 p3 18-06 tarde\\obligatorio 2 p3\\obligatorio 2\\webapi\\web api\\controllers\\tipomovimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17408E1E-9F99-47E4-9DFC-29255B672792}|Web Api\\Web Api.csproj|solutionrelative:web api\\controllers\\tipomovimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17408E1E-9F99-47E4-9DFC-29255B672792}|Web Api\\Web Api.csproj|c:\\users\\rodri\\downloads\\obligatorio 2 p3 18-06 tarde\\obligatorio 2 p3\\obligatorio 2\\webapi\\web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17408E1E-9F99-47E4-9DFC-29255B672792}|Web Api\\Web Api.csproj|solutionrelative:web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B5121F-C082-4811-9058-8BD1CF697E18}|LogicaDatos\\LogicaDatos.csproj|c:\\users\\rodri\\downloads\\obligatorio 2 p3 18-06 tarde\\obligatorio 2 p3\\obligatorio 2\\webapi\\logicadatos\\repositorios\\repositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B5121F-C082-4811-9058-8BD1CF697E18}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\repositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEEECC2-5432-4491-BB20-B6CCB6F3C4DA}|LogiaNegocio\\LogicaNegocio.csproj|c:\\users\\rodri\\downloads\\obligatorio 2 p3 18-06 tarde\\obligatorio 2 p3\\obligatorio 2\\webapi\\logianegocio\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEEECC2-5432-4491-BB20-B6CCB6F3C4DA}|LogiaNegocio\\LogicaNegocio.csproj|solutionrelative:logianegocio\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEEECC2-5432-4491-BB20-B6CCB6F3C4DA}|LogiaNegocio\\LogicaNegocio.csproj|c:\\users\\rodri\\downloads\\obligatorio 2 p3 18-06 tarde\\obligatorio 2 p3\\obligatorio 2\\webapi\\logianegocio\\dominio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEEECC2-5432-4491-BB20-B6CCB6F3C4DA}|LogiaNegocio\\LogicaNegocio.csproj|solutionrelative:logianegocio\\dominio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEEECC2-5432-4491-BB20-B6CCB6F3C4DA}|LogiaNegocio\\LogicaNegocio.csproj|c:\\users\\rodri\\downloads\\obligatorio 2 p3 18-06 tarde\\obligatorio 2 p3\\obligatorio 2\\webapi\\logianegocio\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEEECC2-5432-4491-BB20-B6CCB6F3C4DA}|LogiaNegocio\\LogicaNegocio.csproj|solutionrelative:logianegocio\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapperTipoMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\DTOs\\MappersDTOs\\MapperTipoMovimiento.cs",
+              "RelativeDocumentMoniker": "DTOs\\MappersDTOs\\MapperTipoMovimiento.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\DTOs\\MappersDTOs\\MapperTipoMovimiento.cs",
+              "RelativeToolTip": "DTOs\\MappersDTOs\\MapperTipoMovimiento.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:55:27.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositorioTipoMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogiaNegocio\\InterfacesRepositorios\\IRepositorioTipoMovimiento.cs",
+              "RelativeDocumentMoniker": "LogiaNegocio\\InterfacesRepositorios\\IRepositorioTipoMovimiento.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogiaNegocio\\InterfacesRepositorios\\IRepositorioTipoMovimiento.cs",
+              "RelativeToolTip": "LogiaNegocio\\InterfacesRepositorios\\IRepositorioTipoMovimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:00:08.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioTipoMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogicaDatos\\Repositorios\\RepositorioTipoMovimiento.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioTipoMovimiento.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogicaDatos\\Repositorios\\RepositorioTipoMovimiento.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioTipoMovimiento.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwEAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:56:14.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoMovimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\Web Api\\Controllers\\TipoMovimientosController.cs",
+              "RelativeDocumentMoniker": "Web Api\\Controllers\\TipoMovimientosController.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\Web Api\\Controllers\\TipoMovimientosController.cs",
+              "RelativeToolTip": "Web Api\\Controllers\\TipoMovimientosController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:55:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\Web Api\\Program.cs",
+              "RelativeDocumentMoniker": "Web Api\\Program.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\Web Api\\Program.cs",
+              "RelativeToolTip": "Web Api\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:53:44.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositorioUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogicaDatos\\Repositorios\\RepositorioUsuarios.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioUsuarios.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogicaDatos\\Repositorios\\RepositorioUsuarios.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioUsuarios.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:52:37.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientoStockController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\Web Api\\Controllers\\MovimientoStockController.cs",
+              "RelativeDocumentMoniker": "Web Api\\Controllers\\MovimientoStockController.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\Web Api\\Controllers\\MovimientoStockController.cs",
+              "RelativeToolTip": "Web Api\\Controllers\\MovimientoStockController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAADwv4oAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:30:46.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogiaNegocio\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "LogiaNegocio\\Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogiaNegocio\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "LogiaNegocio\\Dominio\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:23:42.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogiaNegocio\\Dominio\\Administrador.cs",
+              "RelativeDocumentMoniker": "LogiaNegocio\\Dominio\\Administrador.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogiaNegocio\\Dominio\\Administrador.cs",
+              "RelativeToolTip": "LogiaNegocio\\Dominio\\Administrador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:23:40.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogiaNegocio\\Dominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "LogiaNegocio\\Dominio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\Obligatorio 2 P3 18-06 TARDE\\Obligatorio 2 P3\\OBLIGATORIO 2\\WebAPI\\LogiaNegocio\\Dominio\\Usuario.cs",
+              "RelativeToolTip": "LogiaNegocio\\Dominio\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:22:31.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
